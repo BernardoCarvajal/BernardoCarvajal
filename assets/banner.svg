@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">Berni Dev OS — Bernardo Carvajal Rivera</title>
+  <desc id="desc">Product Tech Lead with senior full-stack ownership in fintech. Angular, .NET and Azure. Portfolio: www.bernidev.cl.</desc>
+  <defs>
+    <pattern id="scanlines" width="4" height="4" patternUnits="userSpaceOnUse">
+      <path d="M0 3.5H4" stroke="#000" stroke-opacity=".16"/>
+    </pattern>
+    <radialGradient id="phosphor">
+      <stop stop-color="#b6f542" stop-opacity=".09"/>
+      <stop offset="1" stop-color="#b6f542" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <path d="M2 2H1254L1278 26V418H26L2 394Z" fill="#040605" stroke="#3d453a" stroke-width="2"/>
+  <path d="M24 24H1238L1256 42V396H42L24 378Z" fill="#0a0d0a" stroke="#232821"/>
+  <path d="M24 78H1256M24 354H1256" stroke="#232821"/>
+  <circle cx="55" cy="51" r="4" fill="#b6f542"/>
+  <text x="73" y="56" font-family="'IBM Plex Mono', Consolas, monospace" font-size="15" letter-spacing="2" fill="#e6ebd8">BERNI DEV OS</text>
+  <text x="1206" y="56" text-anchor="end" font-family="'IBM Plex Mono', Consolas, monospace" font-size="12" letter-spacing="2" fill="#8d9486">PERSONAL CONSOLE / 01</text>
+
+  <g font-family="'Space Grotesk', 'Arial Black', Arial, sans-serif" font-size="65" font-weight="900" letter-spacing="-2" fill="#e6ebd8">
+    <text x="64" y="161">BERNARDO</text>
+    <text x="64" y="234">CARVAJAL RIVERA</text>
+  </g>
+  <text x="68" y="280" font-family="'IBM Plex Mono', Consolas, monospace" font-size="23" font-weight="600" fill="#b6f542">[ PRODUCT TECH LEAD ]</text>
+  <text x="68" y="315" font-family="Inter, Arial, sans-serif" font-size="19" fill="#8d9486">Senior full-stack ownership / Fintech platforms</text>
+
+  <g transform="translate(932 109)">
+    <path d="M0 0H250L262 12V214H12L0 202Z" fill="#131713" stroke="#3d453a"/>
+    <rect x="14" y="14" width="234" height="157" rx="3" fill="#040605" stroke="#232821"/>
+    <rect x="15" y="15" width="232" height="155" fill="url(#phosphor)"/>
+    <path d="M68 58L104 92L68 126M123 128H177" fill="none" stroke="#b6f542" stroke-width="12" stroke-linecap="square" stroke-linejoin="miter"/>
+    <rect x="15" y="15" width="232" height="155" fill="url(#scanlines)"/>
+    <circle cx="24" cy="193" r="3" fill="#b6f542"/>
+    <text x="43" y="197" font-family="'IBM Plex Mono', Consolas, monospace" font-size="12" letter-spacing="1" fill="#8d9486">WWW.BERNIDEV.CL</text>
+    <g stroke="#5b6355" stroke-width="2">
+      <path d="M224 188H237M224 193H237M224 198H237"/>
+    </g>
+  </g>
+
+  <g font-family="'IBM Plex Mono', Consolas, monospace" font-size="13" letter-spacing="1.5">
+    <text x="68" y="382" fill="#b6f542">ANGULAR / .NET / AZURE</text>
+    <text x="1206" y="382" text-anchor="end" fill="#8d9486">SANTIAGO, CHILE · ES / EN</text>
+  </g>
+  <path d="M2 26V2H26M1254 418H1278V394" fill="none" stroke="#b6f542" stroke-width="2"/>
+</svg>
